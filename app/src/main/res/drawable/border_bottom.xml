@@ -4,14 +4,15 @@
     <item
         android:left="-2.0dip"
         android:top="-2.0dip"
-        android:right="-2.0dip">
+        android:right="-2.0dip"
+        android:bottom="0.0dip">
         <shape
             android:shape="rectangle">
             <solid
-                android:color="@color/main_bg" />
+                android:color="@android:color/transparent" />
             <stroke
-                android:width="2.0dip"
-                android:color="@color/selected_bg" />
+                android:width="1.0dip"
+                android:color="@color/border_line" />
         </shape>
     </item>
 </layer-list>
