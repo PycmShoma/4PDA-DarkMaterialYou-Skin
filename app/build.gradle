@@ -5,7 +5,7 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "ru.fourpda.skins.darkaosp"   /* обязательно переименовать "ru.fourpda.skins.ВАШЕ_ИМЯ"
+        applicationId "ru.fourpda.skins.darkmaterial"   /* обязательно переименовать "ru.fourpda.skins.ВАШЕ_ИМЯ"
                                 при добавлении скина на форум, указать данную строчку в поле "Имя скина в системе"*/
         minSdkVersion 10
         targetSdkVersion 28
