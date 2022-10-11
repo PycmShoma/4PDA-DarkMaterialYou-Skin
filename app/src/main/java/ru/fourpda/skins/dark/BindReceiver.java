@@ -1,4 +1,4 @@
-package ru.fourpda.skins.dark;
+package ru.fourpda.skins.darkmaterialyou;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
