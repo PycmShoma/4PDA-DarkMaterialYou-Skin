@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8' ?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="aliceblue">#fff0f8ff</color>
     <color name="alter_text">@color/white</color>
@@ -61,19 +61,17 @@
     <color name="blanchedalmond">#ffffebcd</color>
     <color name="blue">#ff3367d6</color>
     <color name="blueviolet">#ff8a2be2</color>
-    <color name="bookmarks_header_csl">res/color/bookmarks_header_csl.xml</color>
     <color name="border_line">#ff343434</color>
     <color name="brend">@android:color/system_neutral1_900</color>
     <color name="brend_alpha">@color/brend</color>
     <color name="brown">#ffa52a2a</color>
-    <color name="btn_text_color">res/color/btn_text_color.xml</color>
     <color name="bubble_my_bg">#ff2f2f2f</color>
     <color name="bubble_oppo_bg">#ff2f2f2f</color>
     <color name="burlywood">#ffdeb887</color>
     <color name="business_bg">@color/brend</color>
     <color name="button_flat_bg">@color/brend</color>
-    <color name="button_flat_text">#ffffffff</color>
-    <color name="button_text">#ffffffff</color>
+    <color name="button_flat_text">@color/white</color>
+    <color name="button_text">@color/white</color>
     <color name="cadetblue">#ff5f9ea0</color>
     <color name="cardlist_bg">@color/brend</color>
     <color name="chartreuse">#ff7fff00</color>
@@ -146,8 +144,7 @@
     <color name="indigo">#ff6b20a2</color>
     <color name="ivory">#fffffff0</color>
     <color name="khaki">#fff0e68c</color>
-    <color name="label_text">#ffffffff</color>
-    <color name="label_text_csl">res/color/label_text_csl.xml</color>
+    <color name="label_text">@color/white</color>
     <color name="lavender">#ffe6e6fa</color>
     <color name="lavenderblush">#fffff0f5</color>
     <color name="lawngreen">#ff7cfc00</color>
@@ -168,8 +165,7 @@
     <color name="lime">#ff00ff00</color>
     <color name="limegreen">#ff32cd32</color>
     <color name="linen">#fffaf0e6</color>
-    <color name="link_color">res/color/link_color.xml</color>
-    <color name="list_selector">#00000000</color>
+    <color name="list_selector">#ff000000</color>
     <color name="magenta">#ffff00ff</color>
     <color name="main_bg">@color/brend</color>
     <color name="main_text">@color/white</color>
@@ -215,7 +211,7 @@
     <color name="purple">#ffa020a0</color>
     <color name="qms_typing_dots">@color/white</color>
     <color name="qmslist_bg">@color/brend</color>
-    <color name="red">#d50000</color>
+    <color name="red">#ffd50000</color>
     <color name="refresh_arrow_1">@color/white</color>
     <color name="refresh_arrow_2">@color/white</color>
     <color name="refresh_arrow_3">@color/white</color>
