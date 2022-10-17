@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_selected="false">
+        <layer-list>
+            <item>
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/ic_expand_close"
+                    android:tint="@color/selected_bg"
+                    android:tintMode="src_atop" />
+            </item>
+        </layer-list>
+    </item>
+    <item
+        android:state_selected="true">
+        <layer-list>
+            <item>
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/ic_expand_open"
+                    android:tint="@color/selected_bg"
+                    android:tintMode="src_atop" />
+            </item>
+        </layer-list>
+    </item>
+</selector>
