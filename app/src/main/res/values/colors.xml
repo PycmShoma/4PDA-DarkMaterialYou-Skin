@@ -6,8 +6,8 @@
     <color name="aqua">#ff00ffff</color>
     <color name="aquamarine">#ff7fffd4</color>
     <color name="art_com_date">@color/white</color>
-    <color name="art_com_date_bg">@color/white</color>
-    <color name="art_com_even_bg">@color/white</color>
+    <color name="art_com_date_bg">@color/brend</color>
+    <color name="art_com_even_bg">@color/brend</color>
     <color name="art_sep_color">@color/white</color>
     <color name="art_sep_small_color">@color/white</color>
     <color name="azure">#fff0ffff</color>
