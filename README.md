@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/MinSDK-31-blue?longCache=true&style=flat">
 
 #
-<img src="https://img.shields.io/badge/Compile%20Project-blue?longCache=true&logo=github&labelColor=blue&style=flat">
+<img src="https://img.shields.io/badge/Build%20Project-blue?longCache=true&logo=github&labelColor=blue&style=flat">
 
 `ENG`
 You can build this project on desktop with Android Studio or on Android device with AIDE - Android IDE - Java, C++
