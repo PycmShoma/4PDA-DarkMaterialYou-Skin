@@ -1,6 +1,6 @@
 ## Dark MaterialYou (Monet) skin for [4PDA](https://4pda.to/forum/index.php?showtopic=673755) forum app
 #
-<img src="https://img.shields.io/badge/MinSDK-31-blue?longCache=true&style=flat">
+<img src="https://img.shields.io/badge/minSdk-31-blue?longCache=true&style=flat">
 
 #
 <img src="https://img.shields.io/badge/Build%20Project-blue?longCache=true&logo=github&labelColor=blue&style=flat">
