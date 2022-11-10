@@ -4,9 +4,9 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <corners
         android:topLeftRadius="0.0dip"
-        android:topRightRadius="25.0dip"
-        android:bottomLeftRadius="25.0dip"
-        android:bottomRightRadius="25.0dip" />
+        android:topRightRadius="10.0dip"
+        android:bottomLeftRadius="10.0dip"
+        android:bottomRightRadius="10.0dip" />
     <solid
         android:color="@color/bubble_oppo_bg" />
     <stroke

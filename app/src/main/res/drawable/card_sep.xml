@@ -8,7 +8,7 @@
         <shape
             android:shape="line">
             <solid
-                android:color="@android:color/transparent" />
+                android:color="@color/transparent" />
             <stroke
                 android:width="2.0dip"
                 android:color="@color/border_line" />

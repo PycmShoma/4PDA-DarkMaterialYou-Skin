@@ -31,7 +31,7 @@
             <item>
                 <shape>
                     <solid
-                        android:color="@android:color/transparent" />
+                        android:color="@color/transparent" />
                 </shape>
             </item>
         </layer-list>
