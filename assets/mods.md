@@ -48,5 +48,5 @@
         android:pathData="m47.16 56.6 8.59.01v-9.56z" />
 </vector>`
 and add the line to /res/mipmap-anydpi-v26/ic_launcher.xml and ic_launcher_round.xml with content:
-penultimate line (before the line) </adaptive-icon>
+penultimate line
 `<monochrome android:drawable="@drawable/adaptive_monochrome_fourpda_launcher" />`
