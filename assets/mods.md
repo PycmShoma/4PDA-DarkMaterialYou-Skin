@@ -31,7 +31,8 @@
 #
 #
 
-## To add a monochrome app icon for A13, create a vector resource in /res/drawable on the **client app** adaptive_monochrome_fourpda_launcher.xml with content:
+## To add a monochrome app icon for A13
+- Create a vector resource in /res/drawable on the **client app** adaptive_monochrome_fourpda_launcher.xml with content:
 `<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:height="108dp"
