@@ -33,6 +33,7 @@
 
 ## To add a monochrome app icon for A13
 - Create a vector resource in /res/drawable on the **client app** adaptive_monochrome_fourpda_launcher.xml with content:
+
 `<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:height="108dp"
@@ -45,8 +46,7 @@
     <path
         android:fillColor="#FF000000"
         android:pathData="m47.16 56.6 8.59.01v-9.56z" />
-</vector>
-`
+</vector>`
 and add the line to /res/mipmap-anydpi-v26/ic_launcher.xml and ic_launcher_round.xml with content:
 penultimate line (before the line) </adaptive-icon>
 `<monochrome android:drawable="@drawable/adaptive_monochrome_fourpda_launcher" />`
