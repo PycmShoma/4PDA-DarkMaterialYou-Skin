@@ -28,3 +28,5 @@ and
 #
 <a href="https://github.com/PycmShoma/4PDA-DarkMaterialYou-Skin/blob/master/assets/screenshots.md"><img src="https://img.shields.io/badge/Screenshots-blue?longCache=true&logo=github&labelColor=blue&style=flat"> </a>
 
+#
+<a href="https://github.com/PycmShoma/4PDA-DarkMaterialYou-Skin/blob/master/assets/mods.md"><img src="https://img.shields.io/badge/Mods-blue?longCache=true&logo=github&labelColor=blue&style=flat"> </a>
